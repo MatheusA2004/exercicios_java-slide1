@@ -1,0 +1,7 @@
+# exercicios_java
+
+no primeiro exercício temos a equação do primeiro grau, com os seguintes arquivos: equacao.html e equacao.js.
+o arquivo equacao.js é linkado através da tag script, assim possibilitando ultlizar o javascript.
+
+no arquivo html temos 2 inputs para passar os valores necessarios para a equação, aplicando uma id para cada um.
+logo após temos um botão com uma função de onclick para chamar o resultado 
