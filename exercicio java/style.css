@@ -1,0 +1,43 @@
+html{
+    height: 100%;
+}
+
+body{
+    background-color: rgb(211, 255, 245);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.box{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.input{
+    text-align: center;
+    border: 2px solid rgb(12, 65, 32);
+}
+
+
+
+
+
+.botoes{
+    height: 100%;
+    display: block;
+    text-align: center;
+    margin-top: 300px;
+}    
+
+.botoes button{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(21, 228, 255);
+    border: 2px solid rgb(23, 94, 104);
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+
+
