@@ -11,12 +11,15 @@
 <body>
 
     <div class="box">
-        <h1>A equação é: X = Y + 6</h1>
+        <h1>A equação é: X + Y = Z</h1>
 
         <br>
 
         <h2>Digite o valor de y:</h2>
         <input type="number" name="" id="Y">
+        <h2>Digite o valor de Z:</h2>
+        <input type="number" name="" id="Z">
+        <br><br>
         <button onclick="aparecer()">Calcular</button>
 
         <h1>O resultado de X é <span></span></h1>
@@ -24,7 +27,15 @@
 
     
 
-    <script src="equacao.js"></script>
+    <script >
+        var n1 = document.querySelector('#Y')
+        var n2 = document.querySelector('#Z')
+        var resultado = document.querySelector('span')
+
+        function aparecer() {
+            resultado.innerHTML = (parseFloat(n2.value) - parseFloat(n1.value)) 
+        }
+    </script>
 
 </body>
 </html>
