@@ -4,4 +4,38 @@ no primeiro exercício temos a equação do primeiro grau, com os seguintes arqu
 o arquivo equacao.js é linkado através da tag script, assim possibilitando ultlizar o javascript.
 
 no arquivo html temos 2 inputs para passar os valores necessarios para a equação, aplicando uma id para cada um.
-logo após temos um botão com uma função de onclick para chamar o resultado 
+logo após temos um botão com uma função de onclick para fazer o resultado aparecer direto no span criado dentro do h2
+
+no arquivo equacao.js comecei declarando 3 variáveis para os inputs e para o span criados no arquivo HTML, com nomes de 'n1', 'n2' e 'resultado'.
+
+logo após ultilizo o recurso function para determinar que quando meu botão for clicado meu código ordene que no meu span apareça o resultado de n1 - n2.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+no segundo exercicio temos que ordenar 4 valores e nosso código vai nos retornar a média entre eles, aonde ultilizamos os arquivos media.html e media.js
+o arquivo media.js é linkado através da tag script, assim possibilitando ultlizar o javascript.
+
+no arquivo html temos 4 inputs do tipo number para que possamos digitar os valores que queremos. 
+logo após temos um botão com uma função de onclick para fazer o resultado aparecer direto no span criado dentro do h1.
+
+no arquivo media.js delcarei 4 variáveis para os inputs e para o span criados no HTML.
+
+depois ultilizei o recurso function para determinar que quando meu botão for clicado meu código ordene que no meu span apareça o resultado de (n1 + n2 + n3 + n4) / 4
+
+
+==========================================================================================================================================================================
+
+
+no terceiro e ordenar 4 valores e nosso código vai nos retornar a média entre eles, aonde ultilizamos os arquivos media.html e media.js
+o arquivo media.js é linkado através da tag script, assim possibilitando ultlizar o javascript.
+
+no arquivo html temos 4 inputs do tipo number para que possamos digitar os valores que queremos. 
+logo após temos um botão com uma função de onclick para fazer o resultado aparecer direto no span criado dentro do h1.
+
+no arquivo media.js delcarei 4 variáveis para os inputs e para o span criados no HTML.
+
+depois ultilizei o recurso function para determinar que quando meu botão for clicado meu código ordene que no meu span apareça o resultado de (n1 + n2 + n3 + n4) / 4
+
